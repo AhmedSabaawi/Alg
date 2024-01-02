@@ -1,0 +1,7 @@
+AVLTree: 
+Insert: 9993 nanoseconds
+Delete: 9993 nanoseconds
+Search: 9993 nanoseconds
+BST: 
+Insert: 9993 nanoseconds
+Delete: 9993 nanoseconds

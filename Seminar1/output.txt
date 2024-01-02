@@ -1,0 +1,108 @@
+Input Size	Strategy		Method		Run Time
+--------------------------------------------------------------------------------------
+100         First Element       Recursive      0.000012       Iterative      0.000013       
+100         First Element       Recursive      0.000007       Iterative      0.000009       
+100         First Element       Recursive      0.000006       Iterative      0.000006       
+100         First Element       Recursive      0.000006       Iterative      0.000006       
+100         First Element       Recursive      0.000005       Iterative      0.000005       
+100         First Element       Recursive      0.000006       Iterative      0.000006       
+100         First Element       Recursive      0.000005       Iterative      0.000006       
+100         First Element       Recursive      0.000005       Iterative      0.000006       
+100         First Element       Recursive      0.000005       Iterative      0.000005       
+100         First Element       Recursive      0.000006       Iterative      0.000005       
+--------------------------------------------------------------------------------------
+100         Average                            0.000006                      0.000007       
+
+100         RANDOM_ELEMENT      Recursive      0.000029       Iterative      0.000034       
+100         RANDOM_ELEMENT      Recursive      0.000026       Iterative      0.000024       
+100         RANDOM_ELEMENT      Recursive      0.000025       Iterative      0.000022       
+100         RANDOM_ELEMENT      Recursive      0.000022       Iterative      0.000026       
+100         RANDOM_ELEMENT      Recursive      0.000023       Iterative      0.000021       
+100         RANDOM_ELEMENT      Recursive      0.000023       Iterative      0.000034       
+100         RANDOM_ELEMENT      Recursive      0.000026       Iterative      0.000023       
+100         RANDOM_ELEMENT      Recursive      0.000022       Iterative      0.000023       
+100         RANDOM_ELEMENT      Recursive      0.000021       Iterative      0.000022       
+100         RANDOM_ELEMENT      Recursive      0.000021       Iterative      0.000021       
+--------------------------------------------------------------------------------------
+100         Average                            0.000024                      0.000025       
+
+100         Median of Three     Recursive      0.000011       Iterative      0.000011       
+100         Median of Three     Recursive      0.000010       Iterative      0.000009       
+100         Median of Three     Recursive      0.000009       Iterative      0.000008       
+100         Median of Three     Recursive      0.000008       Iterative      0.000008       
+100         Median of Three     Recursive      0.000008       Iterative      0.000007       
+100         Median of Three     Recursive      0.000007       Iterative      0.000006       
+100         Median of Three     Recursive      0.000005       Iterative      0.000007       
+100         Median of Three     Recursive      0.000006       Iterative      0.000007       
+100         Median of Three     Recursive      0.000006       Iterative      0.000005       
+100         Median of Three     Recursive      0.000005       Iterative      0.000007       
+--------------------------------------------------------------------------------------
+100         Average                            0.000007                      0.000007       
+
+100         insertionSort       Recursive      0.000015       Iterative      0.000012       
+100         insertionSort       Recursive      0.000010       Iterative      0.000011       
+100         insertionSort       Recursive      0.000011       Iterative      0.000014       
+100         insertionSort       Recursive      0.000010       Iterative      0.000012       
+100         insertionSort       Recursive      0.000011       Iterative      0.000010       
+100         insertionSort       Recursive      0.000013       Iterative      0.000012       
+100         insertionSort       Recursive      0.000011       Iterative      0.000010       
+100         insertionSort       Recursive      0.000011       Iterative      0.000011       
+100         insertionSort       Recursive      0.000010       Iterative      0.000012       
+100         insertionSort       Recursive      0.000011       Iterative      0.000010       
+--------------------------------------------------------------------------------------
+100         Average Recursive                  0.000011       Iterative      0.000011       
+
+
+200         First Element       Recursive      0.000024       Iterative      0.000020       
+200         First Element       Recursive      0.000017       Iterative      0.000017       
+200         First Element       Recursive      0.000017       Iterative      0.000015       
+200         First Element       Recursive      0.000014       Iterative      0.000016       
+200         First Element       Recursive      0.000014       Iterative      0.000014       
+200         First Element       Recursive      0.000014       Iterative      0.000016       
+200         First Element       Recursive      0.000014       Iterative      0.000013       
+200         First Element       Recursive      0.000012       Iterative      0.000016       
+200         First Element       Recursive      0.000014       Iterative      0.000012       
+200         First Element       Recursive      0.000012       Iterative      0.000016       
+--------------------------------------------------------------------------------------
+200         Average                            0.000015                      0.000016       
+
+200         RANDOM_ELEMENT      Recursive      0.000059       Iterative      0.000057       
+200         RANDOM_ELEMENT      Recursive      0.000055       Iterative      0.000053       
+200         RANDOM_ELEMENT      Recursive      0.000056       Iterative      0.000056       
+200         RANDOM_ELEMENT      Recursive      0.000054       Iterative      0.000056       
+200         RANDOM_ELEMENT      Recursive      0.000054       Iterative      0.000055       
+200         RANDOM_ELEMENT      Recursive      0.000055       Iterative      0.000056       
+200         RANDOM_ELEMENT      Recursive      0.000054       Iterative      0.000077       
+200         RANDOM_ELEMENT      Recursive      0.000057       Iterative      0.000069       
+200         RANDOM_ELEMENT      Recursive      0.000055       Iterative      0.000088       
+200         RANDOM_ELEMENT      Recursive      0.000057       Iterative      0.000050       
+--------------------------------------------------------------------------------------
+200         Average                            0.000056                      0.000062       
+
+200         Median of Three     Recursive      0.000024       Iterative      0.000023       
+200         Median of Three     Recursive      0.000020       Iterative      0.000020       
+200         Median of Three     Recursive      0.000035       Iterative      0.000020       
+200         Median of Three     Recursive      0.000018       Iterative      0.000020       
+200         Median of Three     Recursive      0.000018       Iterative      0.000018       
+200         Median of Three     Recursive      0.000019       Iterative      0.000019       
+200         Median of Three     Recursive      0.000018       Iterative      0.000018       
+200         Median of Three     Recursive      0.000017       Iterative      0.000016       
+200         Median of Three     Recursive      0.000016       Iterative      0.000018       
+200         Median of Three     Recursive      0.000016       Iterative      0.000016       
+--------------------------------------------------------------------------------------
+200         Average                            0.000020                      0.000019       
+
+200         insertionSort       Recursive      0.000039       Iterative      0.000043       
+200         insertionSort       Recursive      0.000039       Iterative      0.000039       
+200         insertionSort       Recursive      0.000038       Iterative      0.000041       
+200         insertionSort       Recursive      0.000035       Iterative      0.000042       
+200         insertionSort       Recursive      0.000037       Iterative      0.000039       
+200         insertionSort       Recursive      0.000036       Iterative      0.000037       
+200         insertionSort       Recursive      0.000037       Iterative      0.000038       
+200         insertionSort       Recursive      0.000039       Iterative      0.000039       
+200         insertionSort       Recursive      0.000053       Iterative      0.000060       
+200         insertionSort       Recursive      0.000036       Iterative      0.000038       
+--------------------------------------------------------------------------------------
+200         Average Recursive                  0.000039       Iterative      0.000053       
+
+

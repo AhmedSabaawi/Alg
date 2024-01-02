@@ -1,0 +1,48 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "task4",
+      "request": "launch",
+      "mainClass": "task4",
+      "projectName": "Seminar2_a8be88e2"
+    },
+    {
+      "type": "java",
+      "name": "JosephusLinkedListIterator",
+      "request": "launch",
+      "mainClass": "JosephusLinkedListIterator",
+      "projectName": "Seminar2_a8be88e2"
+    },
+    {
+      "type": "java",
+      "name": "JosephusCustomLinkedList",
+      "request": "launch",
+      "mainClass": "JosephusCustomLinkedList",
+      "projectName": "Seminar2_a8be88e2"
+    },
+    {
+      "type": "java",
+      "name": "JosephusArrayListIterator",
+      "request": "launch",
+      "mainClass": "JosephusArrayListIterator",
+      "projectName": "Seminar2_a8be88e2"
+    },
+    {
+      "type": "java",
+      "name": "JosephusArrayList",
+      "request": "launch",
+      "mainClass": "JosephusArrayList",
+      "projectName": "Seminar2_a8be88e2"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/ahmedabd/Desktop/ALG/Seminar2",
+      "program": "/Users/ahmedabd/Desktop/ALG/Seminar2/build/Debug/outDebug"
+    }
+  ]
+}

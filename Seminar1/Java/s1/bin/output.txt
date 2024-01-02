@@ -1,0 +1,119 @@
+Input Size    Strategy            Method         Time          
+--------------------------------------------------------------------------------------
+10000       QuickSort FIRST_ELEMENTRecursive      0,015000       Iterative      0,022000       
+10000       insertionSort       Recursive      -1,000000      Iterative      0,048000       
+10000       QuickSort FIRST_ELEMENTRecursive      0,000000       Iterative      0,011000       
+10000       insertionSort       Recursive      0,162000       Iterative      0,054000       
+10000       QuickSort FIRST_ELEMENTRecursive      0,001000       Iterative      0,006000       
+10000       insertionSort       Recursive      0,018000       Iterative      0,012000       
+10000       QuickSort FIRST_ELEMENTRecursive      0,001000       Iterative      0,021000       
+10000       insertionSort       Recursive      -1,000000      Iterative      0,017000       
+10000       QuickSort FIRST_ELEMENTRecursive      0,002000       Iterative      0,004000       
+10000       insertionSort       Recursive      0,124000       Iterative      0,009000       
+--------------------------------------------------------------------------------------
+10000       Average Recursive                  0,060800       Iterative      0,028000       
+
+10000       QuickSort RANDOM_ELEMENTRecursive      0,013000       Iterative      0,005000       
+10000       insertionSort       Recursive      0,012000       Iterative      0,012000       
+10000       QuickSort RANDOM_ELEMENTRecursive      0,001000       Iterative      0,003000       
+10000       insertionSort       Recursive      0,010000       Iterative      0,011000       
+10000       QuickSort RANDOM_ELEMENTRecursive      0,001000       Iterative      0,003000       
+10000       insertionSort       Recursive      0,016000       Iterative      0,011000       
+10000       QuickSort RANDOM_ELEMENTRecursive      0,002000       Iterative      0,004000       
+10000       insertionSort       Recursive      0,012000       Iterative      0,010000       
+10000       QuickSort RANDOM_ELEMENTRecursive      0,003000       Iterative      0,003000       
+10000       insertionSort       Recursive      0,011000       Iterative      0,009000       
+--------------------------------------------------------------------------------------
+10000       Average Recursive                  0,012200       Iterative      0,010600       
+
+10000       QuickSort MEDIAN_OF_THREERecursive      0,002000       Iterative      0,002000       
+10000       insertionSort       Recursive      0,012000       Iterative      0,010000       
+10000       QuickSort MEDIAN_OF_THREERecursive      0,001000       Iterative      0,003000       
+10000       insertionSort       Recursive      0,013000       Iterative      0,012000       
+10000       QuickSort MEDIAN_OF_THREERecursive      0,001000       Iterative      0,001000       
+10000       insertionSort       Recursive      0,017000       Iterative      0,016000       
+10000       QuickSort MEDIAN_OF_THREERecursive      0,001000       Iterative      0,004000       
+10000       insertionSort       Recursive      0,012000       Iterative      0,014000       
+10000       QuickSort MEDIAN_OF_THREERecursive      0,001000       Iterative      0,002000       
+10000       insertionSort       Recursive      0,016000       Iterative      0,016000       
+--------------------------------------------------------------------------------------
+10000       Average Recursive                  0,014000       Iterative      0,013600       
+
+50000       QuickSort FIRST_ELEMENTRecursive      0,009000       Iterative      0,011000       
+50000       insertionSort       Recursive      -1,000000      Iterative      0,257000       
+50000       QuickSort FIRST_ELEMENTRecursive      0,007000       Iterative      0,008000       
+50000       insertionSort       Recursive      -1,000000      Iterative      0,250000       
+50000       QuickSort FIRST_ELEMENTRecursive      0,007000       Iterative      0,008000       
+50000       insertionSort       Recursive      -1,000000      Iterative      0,264000       
+50000       QuickSort FIRST_ELEMENTRecursive      0,007000       Iterative      0,008000       
+50000       insertionSort       Recursive      -1,000000      Iterative      0,251000       
+50000       QuickSort FIRST_ELEMENTRecursive      0,009000       Iterative      0,011000       
+50000       insertionSort       Recursive      -1,000000      Iterative      0,268000       
+--------------------------------------------------------------------------------------
+50000       Average Recursive                  0,000000       Iterative      0,258000       
+
+50000       QuickSort RANDOM_ELEMENTRecursive      0,013000       Iterative      0,015000       
+50000       insertionSort       Recursive      -1,000000      Iterative      0,240000       
+50000       QuickSort RANDOM_ELEMENTRecursive      0,009000       Iterative      0,013000       
+50000       insertionSort       Recursive      -1,000000      Iterative      0,235000       
+50000       QuickSort RANDOM_ELEMENTRecursive      0,010000       Iterative      0,013000       
+50000       insertionSort       Recursive      -1,000000      Iterative      0,230000       
+50000       QuickSort RANDOM_ELEMENTRecursive      0,010000       Iterative      0,012000       
+50000       insertionSort       Recursive      -1,000000      Iterative      0,238000       
+50000       QuickSort RANDOM_ELEMENTRecursive      0,010000       Iterative      0,013000       
+50000       insertionSort       Recursive      -1,000000      Iterative      0,229000       
+--------------------------------------------------------------------------------------
+50000       Average Recursive                  0,000000       Iterative      0,234400       
+
+50000       QuickSort MEDIAN_OF_THREERecursive      0,007000       Iterative      0,008000       
+50000       insertionSort       Recursive      -1,000000      Iterative      0,230000       
+50000       QuickSort MEDIAN_OF_THREERecursive      0,007000       Iterative      0,008000       
+50000       insertionSort       Recursive      -1,000000      Iterative      0,231000       
+50000       QuickSort MEDIAN_OF_THREERecursive      0,007000       Iterative      0,008000       
+50000       insertionSort       Recursive      -1,000000      Iterative      0,231000       
+50000       QuickSort MEDIAN_OF_THREERecursive      0,007000       Iterative      0,008000       
+50000       insertionSort       Recursive      -1,000000      Iterative      0,232000       
+50000       QuickSort MEDIAN_OF_THREERecursive      0,007000       Iterative      0,009000       
+50000       insertionSort       Recursive      -1,000000      Iterative      0,231000       
+--------------------------------------------------------------------------------------
+50000       Average Recursive                  0,000000       Iterative      0,231000       
+
+100000      QuickSort FIRST_ELEMENTRecursive      0,027000       Iterative      0,028000       
+100000      insertionSort       Recursive      -1,000000      Iterative      0,967000       
+100000      QuickSort FIRST_ELEMENTRecursive      0,032000       Iterative      0,042000       
+100000      insertionSort       Recursive      -1,000000      Iterative      1,012000       
+100000      QuickSort FIRST_ELEMENTRecursive      0,029000       Iterative      0,038000       
+100000      insertionSort       Recursive      -1,000000      Iterative      1,016000       
+100000      QuickSort FIRST_ELEMENTRecursive      0,045000       Iterative      0,043000       
+100000      insertionSort       Recursive      -1,000000      Iterative      1,187000       
+100000      QuickSort FIRST_ELEMENTRecursive      0,027000       Iterative      0,035000       
+100000      insertionSort       Recursive      -1,000000      Iterative      1,360000       
+--------------------------------------------------------------------------------------
+100000      Average Recursive                  0,000000       Iterative      1,108400       
+
+100000      QuickSort RANDOM_ELEMENTRecursive      0,029000       Iterative      0,038000       
+100000      insertionSort       Recursive      -1,000000      Iterative      1,008000       
+100000      QuickSort RANDOM_ELEMENTRecursive      0,033000       Iterative      0,039000       
+100000      insertionSort       Recursive      -1,000000      Iterative      1,371000       
+100000      QuickSort RANDOM_ELEMENTRecursive      0,028000       Iterative      0,031000       
+100000      insertionSort       Recursive      -1,000000      Iterative      1,225000       
+100000      QuickSort RANDOM_ELEMENTRecursive      0,038000       Iterative      0,035000       
+100000      insertionSort       Recursive      -1,000000      Iterative      0,994000       
+100000      QuickSort RANDOM_ELEMENTRecursive      0,029000       Iterative      0,032000       
+100000      insertionSort       Recursive      -1,000000      Iterative      0,991000       
+--------------------------------------------------------------------------------------
+100000      Average Recursive                  0,000000       Iterative      1,117800       
+
+100000      QuickSort MEDIAN_OF_THREERecursive      0,025000       Iterative      0,033000       
+100000      insertionSort       Recursive      -1,000000      Iterative      1,034000       
+100000      QuickSort MEDIAN_OF_THREERecursive      0,024000       Iterative      0,031000       
+100000      insertionSort       Recursive      -1,000000      Iterative      1,018000       
+100000      QuickSort MEDIAN_OF_THREERecursive      0,023000       Iterative      0,029000       
+100000      insertionSort       Recursive      -1,000000      Iterative      1,026000       
+100000      QuickSort MEDIAN_OF_THREERecursive      0,039000       Iterative      0,066000       
+100000      insertionSort       Recursive      -1,000000      Iterative      1,048000       
+100000      QuickSort MEDIAN_OF_THREERecursive      0,023000       Iterative      0,029000       
+100000      insertionSort       Recursive      -1,000000      Iterative      0,947000       
+--------------------------------------------------------------------------------------
+100000      Average Recursive                  0,000000       Iterative      1,014600       
+

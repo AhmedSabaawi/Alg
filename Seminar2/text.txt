@@ -1,0 +1,232 @@
+nJosephusArrayList:
+Algorithm                     Input     Time(ms)   
+JosephusArrayList             10        2          
+JosephusArrayList             10        0          
+JosephusArrayList             10        0          
+JosephusArrayList             10        0          
+JosephusArrayList             10        0          
+JosephusArrayList             10        0          
+JosephusArrayList             10        0          
+JosephusArrayList             10        0          
+JosephusArrayList             10        0          
+JosephusArrayList             10        0          
+Average time for value 10: 0 ms 
+JosephusArrayList             100       0          
+JosephusArrayList             100       0          
+JosephusArrayList             100       0          
+JosephusArrayList             100       0          
+JosephusArrayList             100       0          
+JosephusArrayList             100       0          
+JosephusArrayList             100       0          
+JosephusArrayList             100       0          
+JosephusArrayList             100       0          
+JosephusArrayList             100       0          
+Average time for value 100: 0 ms 
+JosephusArrayList             1000      0          
+JosephusArrayList             1000      0          
+JosephusArrayList             1000      0          
+JosephusArrayList             1000      0          
+JosephusArrayList             1000      0          
+JosephusArrayList             1000      0          
+JosephusArrayList             1000      0          
+JosephusArrayList             1000      0          
+JosephusArrayList             1000      0          
+JosephusArrayList             1000      0          
+Average time for value 1000: 0 ms 
+JosephusArrayList             10000     8          
+JosephusArrayList             10000     9          
+JosephusArrayList             10000     13         
+JosephusArrayList             10000     10         
+JosephusArrayList             10000     17         
+JosephusArrayList             10000     53         
+JosephusArrayList             10000     13         
+JosephusArrayList             10000     32         
+JosephusArrayList             10000     5          
+JosephusArrayList             10000     6          
+Average time for value 10000: 16 ms 
+JosephusArrayList             100000    414        
+JosephusArrayList             100000    415        
+JosephusArrayList             100000    479        
+JosephusArrayList             100000    354        
+JosephusArrayList             100000    331        
+JosephusArrayList             100000    320        
+JosephusArrayList             100000    333        
+JosephusArrayList             100000    333        
+JosephusArrayList             100000    467        
+JosephusArrayList             100000    344        
+Average time for value 100000: 379 ms 
+Average execution time for JosephusArrayList: 79 ms 
+\nJosephusArrayListIterator:
+Algorithm                     Input     Time(ms)   
+JosephusArrayListIterator     10        0          
+JosephusArrayListIterator     10        0          
+JosephusArrayListIterator     10        0          
+JosephusArrayListIterator     10        0          
+JosephusArrayListIterator     10        0          
+JosephusArrayListIterator     10        0          
+JosephusArrayListIterator     10        0          
+JosephusArrayListIterator     10        0          
+JosephusArrayListIterator     10        0          
+JosephusArrayListIterator     10        0          
+Average time for value 10: 0 ms 
+JosephusArrayListIterator     100       0          
+JosephusArrayListIterator     100       0          
+JosephusArrayListIterator     100       0          
+JosephusArrayListIterator     100       1          
+JosephusArrayListIterator     100       1          
+JosephusArrayListIterator     100       0          
+JosephusArrayListIterator     100       1          
+JosephusArrayListIterator     100       0          
+JosephusArrayListIterator     100       0          
+JosephusArrayListIterator     100       0          
+Average time for value 100: 0 ms 
+JosephusArrayListIterator     1000      11         
+JosephusArrayListIterator     1000      5          
+JosephusArrayListIterator     1000      6          
+JosephusArrayListIterator     1000      6          
+JosephusArrayListIterator     1000      9          
+JosephusArrayListIterator     1000      9          
+JosephusArrayListIterator     1000      4          
+JosephusArrayListIterator     1000      4          
+JosephusArrayListIterator     1000      4          
+JosephusArrayListIterator     1000      43         
+Average time for value 1000: 10 ms 
+JosephusArrayListIterator     10000     70         
+JosephusArrayListIterator     10000     43         
+JosephusArrayListIterator     10000     55         
+JosephusArrayListIterator     10000     67         
+JosephusArrayListIterator     10000     40         
+JosephusArrayListIterator     10000     47         
+JosephusArrayListIterator     10000     60         
+JosephusArrayListIterator     10000     263        
+JosephusArrayListIterator     10000     59         
+JosephusArrayListIterator     10000     66         
+Average time for value 10000: 77 ms 
+JosephusArrayListIterator     100000    4590       
+JosephusArrayListIterator     100000    4590       
+JosephusArrayListIterator     100000    4924       
+JosephusArrayListIterator     100000    4139       
+JosephusArrayListIterator     100000    4196       
+JosephusArrayListIterator     100000    4348       
+JosephusArrayListIterator     100000    4381       
+JosephusArrayListIterator     100000    4507       
+JosephusArrayListIterator     100000    4320       
+JosephusArrayListIterator     100000    4106       
+Average time for value 100000: 4410 ms 
+Average execution time for JosephusArrayListIterator: 899 ms 
+\nJosephusCustomLinkedList:
+Algorithm                     Input     Time(ms)   
+JosephusCustomLinkedList      10        2          
+JosephusCustomLinkedList      10        0          
+JosephusCustomLinkedList      10        0          
+JosephusCustomLinkedList      10        0          
+JosephusCustomLinkedList      10        0          
+JosephusCustomLinkedList      10        0          
+JosephusCustomLinkedList      10        0          
+JosephusCustomLinkedList      10        0          
+JosephusCustomLinkedList      10        0          
+JosephusCustomLinkedList      10        0          
+Average time for value 10: 0 ms 
+JosephusCustomLinkedList      100       0          
+JosephusCustomLinkedList      100       0          
+JosephusCustomLinkedList      100       0          
+JosephusCustomLinkedList      100       0          
+JosephusCustomLinkedList      100       0          
+JosephusCustomLinkedList      100       0          
+JosephusCustomLinkedList      100       0          
+JosephusCustomLinkedList      100       0          
+JosephusCustomLinkedList      100       0          
+JosephusCustomLinkedList      100       0          
+Average time for value 100: 0 ms 
+JosephusCustomLinkedList      1000      10         
+JosephusCustomLinkedList      1000      7          
+JosephusCustomLinkedList      1000      6          
+JosephusCustomLinkedList      1000      10         
+JosephusCustomLinkedList      1000      7          
+JosephusCustomLinkedList      1000      6          
+JosephusCustomLinkedList      1000      19         
+JosephusCustomLinkedList      1000      129        
+JosephusCustomLinkedList      1000      4          
+JosephusCustomLinkedList      1000      5          
+Average time for value 1000: 20 ms 
+JosephusCustomLinkedList      10000     725        
+JosephusCustomLinkedList      10000     631        
+JosephusCustomLinkedList      10000     622        
+JosephusCustomLinkedList      10000     627        
+JosephusCustomLinkedList      10000     634        
+JosephusCustomLinkedList      10000     774        
+JosephusCustomLinkedList      10000     711        
+JosephusCustomLinkedList      10000     615        
+JosephusCustomLinkedList      10000     644        
+JosephusCustomLinkedList      10000     594        
+Average time for value 10000: 657 ms 
+JosephusCustomLinkedList      100000    85772      
+JosephusCustomLinkedList      100000    80466      
+JosephusCustomLinkedList      100000    96024      
+JosephusCustomLinkedList      100000    79193      
+JosephusCustomLinkedList      100000    78145      
+JosephusCustomLinkedList      100000    77670      
+JosephusCustomLinkedList      100000    78526      
+JosephusCustomLinkedList      100000    77851      
+JosephusCustomLinkedList      100000    77542      
+JosephusCustomLinkedList      100000    77356      
+Average time for value 100000: 80854 ms 
+Average execution time for JosephusCustomLinkedList: 16306 ms 
+\nJosephusLinkedListIterator:
+Algorithm                     Input     Time(ms)   
+JosephusLinkedListIterator    10        2          
+JosephusLinkedListIterator    10        0          
+JosephusLinkedListIterator    10        0          
+JosephusLinkedListIterator    10        0          
+JosephusLinkedListIterator    10        0          
+JosephusLinkedListIterator    10        0          
+JosephusLinkedListIterator    10        0          
+JosephusLinkedListIterator    10        0          
+JosephusLinkedListIterator    10        0          
+JosephusLinkedListIterator    10        0          
+Average time for value 10: 0 ms 
+JosephusLinkedListIterator    100       1          
+JosephusLinkedListIterator    100       180        
+JosephusLinkedListIterator    100       3          
+JosephusLinkedListIterator    100       0          
+JosephusLinkedListIterator    100       0          
+JosephusLinkedListIterator    100       0          
+JosephusLinkedListIterator    100       1          
+JosephusLinkedListIterator    100       12         
+JosephusLinkedListIterator    100       0          
+JosephusLinkedListIterator    100       0          
+Average time for value 100: 19 ms 
+JosephusLinkedListIterator    1000      18         
+JosephusLinkedListIterator    1000      14         
+JosephusLinkedListIterator    1000      17         
+JosephusLinkedListIterator    1000      29         
+JosephusLinkedListIterator    1000      14         
+JosephusLinkedListIterator    1000      12         
+JosephusLinkedListIterator    1000      14         
+JosephusLinkedListIterator    1000      8          
+JosephusLinkedListIterator    1000      12         
+JosephusLinkedListIterator    1000      45         
+Average time for value 1000: 18 ms 
+JosephusLinkedListIterator    10000     770        
+JosephusLinkedListIterator    10000     486        
+JosephusLinkedListIterator    10000     478        
+JosephusLinkedListIterator    10000     495        
+JosephusLinkedListIterator    10000     480        
+JosephusLinkedListIterator    10000     637        
+JosephusLinkedListIterator    10000     488        
+JosephusLinkedListIterator    10000     542        
+JosephusLinkedListIterator    10000     480        
+JosephusLinkedListIterator    10000     506        
+Average time for value 10000: 536 ms 
+JosephusLinkedListIterator    100000    90744      
+JosephusLinkedListIterator    100000    90800      
+JosephusLinkedListIterator    100000    96483      
+JosephusLinkedListIterator    100000    92493      
+JosephusLinkedListIterator    100000    108314     
+JosephusLinkedListIterator    100000    92112      
+JosephusLinkedListIterator    100000    91895      
+JosephusLinkedListIterator    100000    92593      
+JosephusLinkedListIterator    100000    95162      
+JosephusLinkedListIterator    100000    94470      
+Average time for value 100000: 94506 ms 
+Average execution time for JosephusLinkedListIterator: 19016 ms 

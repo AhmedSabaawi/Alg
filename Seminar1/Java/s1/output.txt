@@ -1,0 +1,5 @@
+Input Size	Strategy		Method		Run Time
+--------------------------------------------------------------------------------------
+Size: 10000, Strategy: FIRST_ELEMENT, Recursive Time: 0,01, Iterative Time: 0,03
+Size: 10000, Strategy: RANDOM_ELEMENT, Recursive Time: 0,01, Iterative Time: 0,01
+Size: 10000, Strategy: MEDIAN_OF_THREE, Recursive Time: 0,00, Iterative Time: 0,00
